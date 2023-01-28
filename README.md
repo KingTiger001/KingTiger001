@@ -12,7 +12,6 @@ I am a full stack developer with 10 years of experience in front-end and back-en
 ### Languages 
 
 <a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" ></a>
-<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white" ></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-brightgreen"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-brightgreen"></a>
